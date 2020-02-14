@@ -12,7 +12,7 @@ based on http://keepachangelog.com/en/1.0.0/
 ### Added
 - Source text for preview image ([#195](https://github.com/area/language-latex/pull/195)).
 - Support for `\regexp{...}` command ([#196](https://github.com/area/language-latex/pull/196)).
-- Snippets for `\binom` and `\intertext` in equations ([]())
+- Snippets for `\binom` and `\intertext` in equations ([#209](https://github.com/area/language-latex/pull/209))
 
 
 ## [1.2.0] - 2018-09-23
